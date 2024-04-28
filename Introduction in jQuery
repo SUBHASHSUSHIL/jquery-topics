@@ -1,0 +1,22 @@
+Introduction:-
+->jQuery is a JavaScript library.
+->jQuery greatly simplifies javascript programming.
+->jQuery easy to learn.
+->A lightweight and Consise is library.
+->Easy to use API which is Compatible with browsers.
+->jQuery also simplifies a lot of the Complicated things from JavaScript like Ajax calls and DOM manipulation.
+
+=Ajax:-(Asynchronous javascript xml)
+-There are two types of ajax.
+1.Synchronous.
+2.Asynchronous.
+
+=Synchronous is Reload browser then Asynchronous not reload and fast proccesing.
+
+=DOM:-(Document Object Model)
+-when a web page or html page load in the browser.Browser creates a DOM for for the page.
+1.Document:->HTML page (Document).
+2.Object:->Tag or Elements and attributes in html page.
+ex:- <a> - Anchor -> Tag
+     <a href="www.google.com">Click in google</a> -> Element
+3.Model:->In DOM tree like Structure of html elements.
