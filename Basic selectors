@@ -1,0 +1,55 @@
+<body>
+
+     <!-- <p>Welcome to jquery</p>
+    <h1>Hello World</h1>
+    <h2>Hello Dear</h2>
+    <p>Hi Everyone</p>
+    <p id="para">HI Sushil Kumar Thakur</p>
+    <p class="ducat">Ducat India Noida Delhi</p> -->
+
+    <!-- <ul id="list1">
+        <li>India</li>
+        <li>Bharat</li>
+        <li>Pakistan</li>
+        <li>Srilanka</li>
+        <li>NeatherLand</li>
+    </ul> -->
+
+    <ul>
+        <li>Apple</li>
+        <li>Boy</li>
+        <li>Cat</li>
+        <li>Dog</li>
+        <li>Elephant</li>
+    </ul>
+
+    <!-- <p class="colo">Subhash Thakur</p>
+    <p class="colo1">Sushil Thakur</p>
+    <p>Sushil</p> -->
+    <input type="button" value="Submit" id="Btn">
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function(){
+            $("#Btn").click(function(){
+                // $("#para").css("color","navy");
+                // $("#para").css("font-size","100px");
+                // $(".ducat").css("font-size","150px");
+                // $("p").css("color","yellow");
+                //$("*").css("color","blue");
+                //$(" ul li ").css("font-size","100px");
+                //$("#list1 li").css("font-size","150px");
+                //$(".colo,.colo1").css("font-size","100px");
+                //$("h1,p,ul,li").css("font-size","150px");
+                // $("p:first").css("font-family","cooper");
+                //$("p:last").css("font-family","cooper");
+                //$("li:even").css("font-family","cooper");
+                //$("li:odd").css("font-family","cooper");
+                //$("li:first-child").css("font-family","cooper");
+                //$("ul li:gt(2)").css("font-size","100px");
+                //$("ul li:lt(2)").css("font-size","100px");
+                //$("ul li:eg(2)").css("font-size","100px");
+            });
+        });
+    </script>
+</body>
